@@ -12,15 +12,15 @@
 
 - 📫 How to reach me **azharalimirjat110@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/azharalimirjat-7750a123b](https://www.linkedin.com/in/azharalimirjat-7750a123b)
+- 📄 Know about my experiences [https://www.linkedin.com/in/azharalimirjat-7750a123b](https://www.linkedin.com/in/azharalimirjat-7750a123b](https://www.linkedin.com/in/azhar-ali-mirjat-7750a123b))
 
 - ⚡ Fun fact **Playing/Watching Cricket and Songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/azharalimirjat-7750a123b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azharalimirjat-7750a123b" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/azharalimirjat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/azharalimirjat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/azharalimirjat11?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/azharalimirjat11?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/azharalimirjat-7750a123b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/azharalimirjat-7750a123b](https://www.linkedin.com/in/azhar-ali-mirjat-7750a123b)" height="30" width="40" /></a>
+<a href="[https://kaggle.com/kaggle.com/azharalimirjat]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/azharalimirjat" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/azharalimirjat11?hr_r=1]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/azharalimirjat11?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/azharalimirjat110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/azharalimirjat110/" height="30" width="40" /></a>
 </p>
 
