@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharalimirjat" alt="azharalimirjat" /></a> </p>
 
-- 🌱 I’m currently learning ***DSA, Java, Python***
+- 🌱 I’m currently learning *** "DSA, Java, Python" ***
 
-- 💬 Ask me about ***Java & DSA***
+- 💬 Ask me about *** "Java & DSA" ***
 
 - 📫 How to reach me **azharalimirjat110@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/azhar-ali-mirjat-7750a123b/
 
-- ⚡ Fun fact **Playing/Watching Cricket and Songs**
+- ⚡ Fun fact **Programming/Codeing & Reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
