@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/azhar-ali-mirjat-7750a123b/
 
-- ⚡ Fun fact **Programming/Codeing & Reading**
+- ⚡ Fun fact **Programming/Coding & Reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
