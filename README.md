@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azhar Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img src="https://media.licdn.com/dms/image/D4D16AQFMw2xg4rXl-Q/profile-displaybackgroundimage-shrink_350_1400/0/1693740880218?e=1715212800&v=beta&t=Fjs4WReGZ2xggI5OFUmc0lfb7XnJNKGOnQKUA-Cifmw">
+<img src="https://camo.githubusercontent.com/c9dd8184acce8b199a8d717cdb2c10dd89e850128b86279978b95451e18c6da7/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azharalimirjat&label=Profile%20views&color=0e75b6&style=flat" alt="azharalimirjat" /> </p>
 
