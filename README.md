@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **azharalimirjat110@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/azhar-ali-mirjat-7750a123b/
+- 📄 Know about my experiences linkedin.com/in/azhar-ali-7750a123b/
 
 - ⚡ Fun fact **Programming/Coding & Reading**
 
