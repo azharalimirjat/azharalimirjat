@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharalimirjat" alt="azharalimirjat" /></a> </p>
 
-- 🌱 I’m currently working on *** "Machine Learning, Backend(Node.js+Express.js+MongoDB, FastAPI" ***
+- 🌱 I’m currently working on *** "Machine Learning, Backend(Node.js+Express.js+MongoDB), FastAPI" ***
 
 - 💬 Ask me about *** "Machine Learning" ***
 
