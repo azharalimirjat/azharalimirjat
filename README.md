@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azhar Ali</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img src="https://img.magnific.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?semt=ais_hybrid&w=740&q=80">
+<img src="https://img.magnific.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?semt=ais_hybrid&w=740&q=80(https://www.magnific.com/premium-ai-image/vector-illustration-depicting-male-software-engineer_303865592.htm#fromView=search&page=1&position=31&uuid=2caec7fc-ed7a-4f13-bbe8-404f5d4ca2a0&query=Software+engineer+animated)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azharalimirjat&label=Profile%20views&color=0e75b6&style=flat" alt="azharalimirjat" /> </p>
 
